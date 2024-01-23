@@ -1,4 +1,4 @@
-Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp https://www.youtube.com/watch?v=IA3WxTTPXqQ]:
+Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp (https://www.youtube.com/watch?v=IA3WxTTPXqQ)]:
 Malaria
 Emotion Detection
 Object Detection
