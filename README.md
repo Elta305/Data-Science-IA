@@ -1,11 +1,11 @@
-Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp (https://www.youtube.com/watch?v=IA3WxTTPXqQ)]:
+Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp](https://www.youtube.com/watch?v=IA3WxTTPXqQ):
 Malaria
 Emotion Detection
 Object Detection
 VAE
 DCGAN
 
-Projet réalisé avec https://tree.rocks/make-diffusion-model-from-scratch-easy-way-to-implement-quick-diffusion-model-e60d18fd0f2e
+Projet réalisé à partir de [ce site](https://tree.rocks/make-diffusion-model-from-scratch-easy-way-to-implement-quick-diffusion-model-e60d18fd0f2e):
 Diffusion
 
 Publications liées:
