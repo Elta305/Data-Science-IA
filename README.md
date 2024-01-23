@@ -1,4 +1,4 @@
-Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp](https://www.youtube.com/watch?v=IA3WxTTPXqQ):
+### Projets réalisés à partir de la [formation sur Tensorflow de FreeCodeCamp](https://www.youtube.com/watch?v=IA3WxTTPXqQ):
 
 Malaria
 
@@ -11,12 +11,12 @@ VAE
 DCGAN
 
 
-Projet réalisé à partir de [ce site](https://tree.rocks/make-diffusion-model-from-scratch-easy-way-to-implement-quick-diffusion-model-e60d18fd0f2e):
+### Projet réalisé à partir de [ce site](https://tree.rocks/make-diffusion-model-from-scratch-easy-way-to-implement-quick-diffusion-model-e60d18fd0f2e):
 
 Diffusion
 
 
-Publications liées:
+### Publications liées:
 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks - Mingxing Tan, Quoc V. Le
 
@@ -33,6 +33,6 @@ Generative Adversarial Nets - Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza
 Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks - Alec Radford, Luke Metz, Soumith Chintala
 
 
-Livres:
+### Livres:
 
 An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor
