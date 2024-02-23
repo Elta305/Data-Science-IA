@@ -20,7 +20,7 @@ Diffusion
 
 EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks - Mingxing Tan, Quoc V. Le
 
-Diffusion Models Beat GANs on Image Synthesis - Prafulla Dhariwal, Alex Nichol
+Diffusion Models Beat GANs on Image Synthesis - Prafulla Dhariwal, Alex Nichol (Je n'ai pas tout compris dans ce qu'ils disent, cette publication me semble beaucoup plus complexe mathématiquement que les autres)
 
 Deep Residual Learning for Image Recognition - Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
