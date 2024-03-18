@@ -35,4 +35,6 @@ Unsupervised Representation Learning with Deep Convolutional Generative Adversar
 
 ### Livres:
 
-An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor
+An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (Feuilleuté brièvement)
+
+Intelligence Artificielle - Une approche moderne, 4ème édition - Stuart Russel, Peter Norvig (En cours de lecture)
