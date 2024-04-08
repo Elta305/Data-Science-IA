@@ -38,3 +38,5 @@ Unsupervised Representation Learning with Deep Convolutional Generative Adversar
 An Introduction to Statistical Learning - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (Feuilleuté brièvement)
 
 Intelligence Artificielle - Une approche moderne, 4ème édition - Stuart Russel, Peter Norvig (En cours de lecture)
+
+Dive into Deep Learning - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola - https://d2l.ai/index.html - (Feuilleuté brièvement)
